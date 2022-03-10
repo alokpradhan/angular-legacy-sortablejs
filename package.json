@@ -1,7 +1,7 @@
 {
-  "name": "angular-legacy-sortablejs-maintained",
-  "version": "0.6.2",
-  "description": "Angular (legacy) directive for SortableJS.",
+  "name": "@alokpradhan/angular-legacy-sortablejs-maintained",
+  "version": "0.6.3",
+  "description": "Fork of Angular (legacy) directive for SortableJS.",
   "main": "angular-legacy-sortable.js",
   "scripts": {
     "serve:example": "node example/app.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SortableJS/angular-legacy-sortablejs.git"
+    "url": "git+https://github.com/alokpradhan/angular-legacy-sortablejs.git"
   },
   "keywords": [
     "angular",
